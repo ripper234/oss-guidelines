@@ -24,3 +24,5 @@ TBD
 
 ### Anything else
 Please join our discussion on [Slack](#) with any further questions.
+
+![Midburn Logo](https://dl.dropboxusercontent.com/u/58640686/midburn-logo.png)

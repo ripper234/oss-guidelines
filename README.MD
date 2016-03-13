@@ -16,7 +16,7 @@ Inside the `docs` directory, you can find templates for useful files that you wi
 You could also find a PDF presentation which we used to introduce Open Source into the IT team.
 
 ### How to contribute
-We really want to get as many talented people working on this as possible. We must have a clear method to prevent us from stepping on each other's toes. Please refer to our [contributor's guide](docs/contribution.md).
+We really want to get as many talented people working on this as possible. We must have a clear method to prevent us from stepping on each other's toes. Please refer to our [contributor's guide](docs/CONTRIBUTION.md).
 
 ### License
 TBD

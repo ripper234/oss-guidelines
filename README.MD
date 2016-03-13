@@ -1,23 +1,22 @@
-# Project Name
+# Open Source Software Guidelines
 
 ### Description / Rationale
-Explain what this project does. Try to share why had Midburn created this project, what drives you to spend your time on it and how you think it will help others.
+This project is meant to both help onboard new developers into how we do open source, as well as help us maintain a shared standard amongst existing contributors.
+
+It's motivated by the same reasons we believe in open source:
+* Improving code & project
+* Recruiting
+* Good karma
+* Street cred
+* Getting in contact with local devs
+* It matches the [10 principles](http://www.wired.com/2013/04/new-hackers-taylor/)
 
 ### Usage
-Describe how people can use what you have created. A video or an animated GIF is always nice to be able to see it in action. You can use Asciiname or tty2gif to generate an animation from your terminal interaction. If your project is a library it’s good to provide some example code that shows the users how to get started and what behavior to expect.
-
-### Badges
-Badges are just dynamically generated images and they are a quick, visual way to show the status of various aspects of your project. They are somewhat optional though. Some of the most common badges are the ones for TravisCI (a continuous integration service) build status and the project’s version number. For a list of available and existing badges check out shields.io.
+Inside the `docs` directory, you can find templates for useful files that you will be required to include in your project (In this form, or your own).
+You could also find a PDF presentation which we used to introduce Open Source into the IT team.
 
 ### How to contribute
-We really want to get as many talented people working on this as possible. We must have a clear method to prevent us from stepping on each other's toes. Please refer to our [contributor's guide](/contribution.md)
-
-### Changelog
-Add a link to another file that describes everything users need to know about the changes you've made for each version. Specifically this file should include the following sections:
-Added
-Deprecated
-Removed
-Fixed Bugs
+We really want to get as many talented people working on this as possible. We must have a clear method to prevent us from stepping on each other's toes. Please refer to our [contributor's guide](docs/contribution.md).
 
 ### License
 TBD

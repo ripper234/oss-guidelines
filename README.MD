@@ -19,7 +19,7 @@ You could also find a PDF presentation, which we used to introduce Open Source i
 We really want to get as many talented people working on this as possible. We must have a clear method to prevent us from stepping on each other's toes. Please refer to our [contributor's guide](/docs/CONTRIBUTION.MD).
 
 ### License
-TBD
+[Unlicense](http://unlicense.org/) (TBD?)
 
 ### Anything else
 Please join our discussion on [Slack](#) with any further questions.
